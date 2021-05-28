@@ -1,0 +1,7 @@
+D:\С# программирование\doubleArrayHomeworkPictures\doubleArrayHomeworkPictures\bin\Debug\doubleArrayHomeworkPictures.exe.config
+D:\С# программирование\doubleArrayHomeworkPictures\doubleArrayHomeworkPictures\bin\Debug\doubleArrayHomeworkPictures.exe
+D:\С# программирование\doubleArrayHomeworkPictures\doubleArrayHomeworkPictures\bin\Debug\doubleArrayHomeworkPictures.pdb
+D:\С# программирование\doubleArrayHomeworkPictures\doubleArrayHomeworkPictures\obj\Debug\doubleArrayHomeworkPictures.csprojAssemblyReference.cache
+D:\С# программирование\doubleArrayHomeworkPictures\doubleArrayHomeworkPictures\obj\Debug\doubleArrayHomeworkPictures.csproj.CoreCompileInputs.cache
+D:\С# программирование\doubleArrayHomeworkPictures\doubleArrayHomeworkPictures\obj\Debug\doubleArrayHomeworkPictures.exe
+D:\С# программирование\doubleArrayHomeworkPictures\doubleArrayHomeworkPictures\obj\Debug\doubleArrayHomeworkPictures.pdb
